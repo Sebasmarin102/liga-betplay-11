@@ -1,0 +1,26 @@
+equipo_id,nombre_completo,dorsal,posicion_general,posicion_especifica,fecha_nacimiento,nacionalidad,altura_cm,peso_kg,pie_dominante,valor_mercado_usd,foto_url
+2,Franco Armani,1,Portero,POR,10/16/1986,Argentina,189,84,Derecho,200000,N/D
+2,Luis Marquínez,25,Portero,POR,10/4/2003,Colombia,180,70,Derecho,200000,N/D
+2,Yeicar Perlaza,27,Defensa,LD,1/24/2003,Colombia,180,70,Derecho,200000,N/D
+2,Andrés Román,6,Defensa,LD,10/5/1995,Colombia,183,75,Derecho,800000,N/D
+2,César Haydar,4,Defensa,DFC,3/31/2001,Colombia,186,78,Izquierdo,600000,N/D
+2,Simón García,28,Defensa,DFC,7/22/2004,Colombia,188,80,Derecho,250000,N/D
+2,William Tesillo,16,Defensa,DFC,2/2/1990,Colombia,184,79,Izquierdo,400000,N/D
+2,Cristian Uribe,36,Defensa,LD,1/1/2005,Colombia,180,70,Derecho,200000,N/D
+2,Milton Casco,20,Defensa,LI,4/11/1990,Argentina,170,69,Izquierdo,150000,N/D
+2,Néider Parra,3,Defensa,DFC,2/15/2006,Colombia,187,78,Derecho,150000,N/D
+2,Xavy Ríos,32,Volante,MCD,9/14/2006,Colombia,176,70,Derecho,100000,N/D
+2,Mateus Uribe,8,Volante,MC,3/21/1991,Colombia,182,71,Derecho,1500000,N/D
+2,Jorman Campuzano,21,Volante,MCD,5/30/1996,Colombia,175,70,Derecho,1200000,N/D
+2,Edwin Cardona,10,Volante,MCO,12/8/1992,Colombia,183,92,Izquierdo,800000,N/D
+2,Elkin Rivero,26,Volante,MC,1/27/2006,Colombia,175,70,Derecho,100000,N/D
+2,Juan Manuel Rengifo,19,Volante,MCO,5/3/2006,Colombia,180,70,Derecho,100000,N/D
+2,Felipe Marín,14,Volante,MC,8/18/2004,Colombia,178,72,Derecho,200000,N/D
+2,Juan Manuel Zapata,80,Volante,MC,5/19/2000,Colombia,178,71,Derecho,1200000,N/D
+2,Juan José Rosa,24,Delantero,DC,2/18/2005,Colombia,180,74,Derecho,150000,N/D
+2,Andrés Sarmiento,29,Delantero,EI,6/15/1998,Colombia,176,70,Derecho,900000,N/D
+2,Alfredo Morelos,9,Delantero,DC,6/21/1996,Colombia,177,79,Derecho,2500000,N/D
+2,Eduard Bello,18,Delantero,ED,8/20/1995,Venezuela,178,73,Derecho,1200000,N/D
+2,Marlos Moreno,7,Delantero,ED,9/20/1996,Colombia,170,66,Derecho,700000,N/D
+2,Nicolás Rodríguez,13,Delantero,ED,4/24/2004,Colombia,173,67,Derecho,250000,N/D
+2,Cristian Arango,17,Delantero,DC,3/9/1995,Colombia,178,76,Derecho,4000000,N/D

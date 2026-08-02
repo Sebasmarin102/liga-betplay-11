@@ -1,0 +1,79 @@
+.cancha {
+  position: relative;
+  width: 100%;
+  max-width: 480px;
+  aspect-ratio: 2 / 3;
+  margin: 24px auto;
+  background: linear-gradient(#2e7d32, #1b5e20);
+  border: 3px solid white;
+  border-radius: 8px;
+  overflow: visible;
+}
+
+.cancha::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.cancha::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 80px;
+  height: 80px;
+  border: 2px solid rgba(255, 255, 255, 0.6);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.slot {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  border: 2px dashed rgba(255, 255, 255, 0.85);
+  background: rgba(0, 0, 0, 0.25);
+  color: white;
+  cursor: pointer;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px;
+}
+
+.slot--ocupado {
+  border-style: solid;
+  background: rgba(255, 255, 255, 0.95);
+  color: #1b1b1b;
+}
+
+.slot__foto {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.slot__dorsal {
+  font-size: 10px;
+  line-height: 1.1;
+}
+
+.slot__nombre {
+  font-size: 9px;
+  line-height: 1.1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 52px;
+}
